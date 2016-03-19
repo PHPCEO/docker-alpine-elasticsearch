@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/sh
 
 # ElasticSearch Docker Entrypoint as per:
 # https://github.com/docker-library/elasticsearch
